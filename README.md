@@ -2,11 +2,13 @@
 #### 🖥️ Frontend-разработчик | React | TypeScript | Redux | PostgreSQL
 ---
 
-### 🚀 О себе
-- Разрабатываю веб-приложения, используя современные технологии и подходы. Моя цель — создавать высококачественные и удобные решения, которые приносят реальную пользу пользователям.
+### 🚀 About me
+- Разрабатываю веб-приложения, используя современные технологии и подходы.
+- Мое кредо: создавать высококачественные и удобные решения, которые приносят реальную пользу пользователям.
 - Стремлюсь развиваться в области frontend-разработки и работать над интересными и масштабными проектами. 
 - Ценю **чистый код, оптимизированные решения** и **удобный UI/UX**. 
-- Принимаюсь за каждую задачу с ответственностью, увлечением и искренним интересом. 
+- Принимаюсь за каждую задачу с ответственностью, увлечением и искренним интересом.
+- 👨‍💻 **Я сейчас активно ищу работу.** [Вот мое резюме](https://hh.ru/resume/8a396b4bff0e4e73890039ed1f51364a307670)
 
 🔗 **Проекты и код:** [GitHub](https://github.com/Alex-Mao0804) | 🔥 **Боевой pet-проект:** [mirkurey.online](http://mirkurey.online)
 
@@ -54,5 +56,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 ![Vite](https://img.shields.io/badge/Vite-%230EB3A0.svg?&style=for-the-badge&logo=vite&logoColor=white&labelColor=000000)
 ![1C](https://img.shields.io/badge/1C-%23000561.svg?&style=for-the-badge&logo=1c&logoColor=white&labelColor=000000)
-
-
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white&labelColor=000000)
+![React Router](https://img.shields.io/badge/React_Router-%230B5ED7.svg?&style=for-the-badge&logo=react-router&logoColor=white&labelColor=000000)
+![REST API](https://img.shields.io/badge/REST_API-%23121017.svg?&style=for-the-badge&logo=rest-api&logoColor=white&labelColor=000000)
+![Axios](https://img.shields.io/badge/Axios-%23121017.svg?&style=for-the-badge&logo=axios&logoColor=white&labelColor=000000)
+![Cypress](https://img.shields.io/badge/Cypress-%23A5F3E6.svg?&style=for-the-badge&logo=cypress&logoColor=white&labelColor=000000)
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white&labelColor=000000)
