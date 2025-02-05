@@ -14,8 +14,8 @@
 
 ---
 
-### 🛠️ Технологии
-#### ⚡ Основной стек:
+### 🛠️ Technologies
+#### ⚡ Main Stack:
 - **JavaScript / TypeScript**
 - **React, Redux Toolkit, React Router**
 - **REST API, Axios**
@@ -25,24 +25,24 @@
 - **SASS (SCSS), MUI, Swiper**
 - **Cypress, Jest**
 
-#### 🔧 Инструменты:
+#### 🔧 Tools:
 - **Git, GitHub Actions**
 - **Figma**
 - **1С (программирование, интеграции)**
 
 ---
 
-### 📬 Контакты
+### 📬 Contacts
 📩 **Email:** faust21@bk.ru  
 💬 **Telegram:** [@Faust21bk](https://t.me/Faust21bk)  
 🌍 **GitHub:** [Alex-Mao0804](https://github.com/Alex-Mao0804)  
 
 ---
 
-### 🎯 Немного личного
+### 🎯 A Bit Personal
 В свободное время увлекаюсь спортом (**волейбол, пиклбол, настольный теннис**), путешествую и смотрю сериалы. 😃
 
-## 🛠 Мой инструментарий
+## 🛠 My Toolkit
 ![React](https://img.shields.io/badge/React-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%232F8B8B.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23282C34.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
