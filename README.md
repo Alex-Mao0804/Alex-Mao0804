@@ -14,24 +14,6 @@
 
 ---
 
-### 🛠️ Technologies
-#### ⚡ Main Stack:
-- **JavaScript / TypeScript**
-- **React, Redux Toolkit, React Router**
-- **REST API, Axios**
-- **PostgreSQL, Node.js (Express)**
-- **Vite, Webpack**
-- **ESLint, Prettier, Husky, lint-staged**
-- **SASS (SCSS), MUI, Swiper**
-- **Cypress, Jest**
-
-#### 🔧 Tools:
-- **Git, GitHub Actions**
-- **Figma**
-- **1С (программирование, интеграции)**
-
----
-
 ### 📬 Contacts
 📩 **Email:** faust21@bk.ru  
 💬 **Telegram:** [@Faust21bk](https://t.me/Faust21bk)  
