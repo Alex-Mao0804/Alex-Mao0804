@@ -44,3 +44,5 @@
 ![Axios](https://img.shields.io/badge/Axios-%23121017.svg?&style=for-the-badge&logo=axios&logoColor=white&labelColor=000000)
 ![Cypress](https://img.shields.io/badge/Cypress-%23A5F3E6.svg?&style=for-the-badge&logo=cypress&logoColor=white&labelColor=000000)
 ![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white&labelColor=000000)
